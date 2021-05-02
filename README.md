@@ -10,4 +10,3 @@ If you like this repo, you can donate me on:
     <img src="https://coffeebede.ir/CofeeTemplate/lib/default-yellow.svg" width="250"/>
   </a>
 </p>
-<a href="http://example.com/" target="_blank">Hello, world!</a>
