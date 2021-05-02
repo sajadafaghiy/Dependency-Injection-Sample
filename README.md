@@ -5,6 +5,6 @@ This repository demonstrate differences between `Singleton`, `Scoped` and `Trans
 
 <p align="center">
   <a href="https://coffeebede.ir/buycoffee/sajad">
-    <img src="https://github.com/SajadAfaghiy/Particle-Swarm-Optimization/blob/master/Particle-Swarm-Optimization/Screenshots/PSO%20Screenshot.JPG" width="600"/>
+    <img src="https://coffeebede.ir/CofeeTemplate/lib/default-yellow.svg" width="250"/>
   </a>
 </p>
